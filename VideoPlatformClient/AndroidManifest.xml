@@ -26,6 +26,14 @@
             android:name="com.ist.vpclient.HomeActivity"
             android:label="@string/app_name" >
         </activity>
+        <activity
+            android:name="com.ist.vpclient.Myctivity"
+            android:label="@string/title_activity_myctivity" >
+        </activity>
+        <activity
+            android:name="com.ist.vpclient.MyActivity"
+            android:label="@string/title_activity_my" >
+        </activity>
     </application>
 
 </manifest>

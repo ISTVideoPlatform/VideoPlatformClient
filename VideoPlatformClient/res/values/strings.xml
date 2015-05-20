@@ -4,5 +4,7 @@
     <string name="app_name">VideoPlatformClient</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_myctivity">Myctivity</string>
+    <string name="title_activity_my">MyActivity</string>
 
 </resources>
